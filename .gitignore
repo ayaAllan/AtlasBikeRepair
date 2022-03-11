@@ -1,3 +1,8 @@
 
 *.iml
 *.xml
+.DS_Store
+backend/BookingPortal/mvnw
+*.jar
+backend/BookingPortal/mvnw.cmd
+backend/BookingPortal/.mvn/wrapper/maven-wrapper.properties
