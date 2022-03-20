@@ -1,4 +1,4 @@
-package com.atlasbikerepair.BookingPortal;
+package src.main.java.com.atlasbikerepair.BookingPortal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

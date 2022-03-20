@@ -2,7 +2,7 @@
 *.iml
 *.xml
 .DS_Store
-backend/BookingPortal/mvnw
+backend/mvnw
 *.jar
-backend/BookingPortal/mvnw.cmd
+backend/mvnw.cmd
 backend/BookingPortal/.mvn/wrapper/maven-wrapper.properties
