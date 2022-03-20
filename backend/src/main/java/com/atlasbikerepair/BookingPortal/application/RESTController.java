@@ -1,4 +1,4 @@
-package src.main.java.com.atlasbikerepair.BookingPortal.application;
+package com.atlasbikerepair.BookingPortal.application;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
